@@ -29,7 +29,7 @@ static NSString * const kTableViewCellContentView = @"UITableViewCellContentView
 @property (nonatomic, strong) UIView *leftUtilityClipView, *rightUtilityClipView;
 @property (nonatomic, strong) NSLayoutConstraint *leftUtilityClipConstraint, *rightUtilityClipConstraint;
 
-@property (nonatomic, strong) UILongPressGestureRecognizer *longPressGestureRecognizer;
+
 @property (nonatomic, strong) UITapGestureRecognizer *tapGestureRecognizer;
 
 - (CGFloat)leftUtilityButtonsWidth;

@@ -277,10 +277,11 @@
 				TargetAttributes = {
 					76D732621AE2F50100909802 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = 7XV5NKQSCC;
 						TestTargetID = AF34B76417DEE2B100BD9082;
 					};
 					AF34B76417DEE2B100BD9082 = {
-						DevelopmentTeam = CRQMUWXT26;
+						DevelopmentTeam = 7XV5NKQSCC;
 					};
 				};
 			};
@@ -430,6 +431,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 7XV5NKQSCC;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -466,6 +468,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 7XV5NKQSCC;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -552,6 +555,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 7XV5NKQSCC;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SWTableViewCell/SWTableViewCell-Prefix.pch";
 				INFOPLIST_FILE = "SWTableViewCell/SWTableViewCell-Info.plist";
@@ -567,6 +571,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 7XV5NKQSCC;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SWTableViewCell/SWTableViewCell-Prefix.pch";
 				INFOPLIST_FILE = "SWTableViewCell/SWTableViewCell-Info.plist";
