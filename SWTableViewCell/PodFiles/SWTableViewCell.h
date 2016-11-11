@@ -36,8 +36,6 @@ typedef NS_ENUM(NSInteger, SWCellState)
 @end
 
 @interface SWTableViewCell : UITableViewCell
-//需要暴露出来，否则长按冲突了
-@property (nonatomic, strong) UILongPressGestureRecognizer *longPressGestureRecognizer;
 @property (nonatomic, copy) NSArray *leftUtilityButtons;
 @property (nonatomic, copy) NSArray *rightUtilityButtons;
 
